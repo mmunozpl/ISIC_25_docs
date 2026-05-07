@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+title: "ISIC_25-26 — Clasificador Multimodal Híbrido ViT-GAT"
+message: "Si utiliza este software, por favor cite la memoria del TFM (preferred-citation) o este repositorio."
+type: software
+authors:
+  - family-names: "Muñoz Plá"
+    given-names: "Manuel"
+    orcid: "https://orcid.org/0009-0000-5714-912X"
+    affiliation: "Universitat Oberta de Catalunya (UOC)"
+repository-code: "https://github.com/mmunozpl/ISIC_25-26"
+url: "https://hdl.handle.net/10609/154321"
+license: Apache-2.0
+version: "1.0.0"
+date-released: "2025-12-22"
+keywords:
+  - dermatology
+  - skin-lesion-classification
+  - multimodal-learning
+  - vision-transformer
+  - graph-attention-networks
+  - ISIC
+  - MILK10k
+  - PanDerm
+  - ProxyNCA
+  - MONET
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.18630494"
+    description: "Depósito Zenodo de la memoria del TFM"
+  - type: url
+    value: "https://hdl.handle.net/10609/154321"
+    description: "Depósito institucional UOC (O2)"
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Muñoz Plá"
+      given-names: "Manuel"
+      orcid: "https://orcid.org/0009-0000-5714-912X"
+  title: "Clasificador Multimodal Híbrido de Lesiones Cutáneas en el desafío ISIC MILK10k 2025"
+  year: 2025
+  month: 12
+  institution:
+    name: "Universitat Oberta de Catalunya (UOC)"
+  thesis-type: "Trabajo Final de Máster"
+  doi: "10.5281/zenodo.18630494"
+  url: "https://hdl.handle.net/10609/154321"
