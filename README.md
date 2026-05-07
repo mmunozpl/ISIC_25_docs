@@ -14,7 +14,7 @@
 
 **Fecha:** Diciembre 2025
 
-**Challenge:** ISIC MILK10k 2025 — Posición **15 / 50** equipos a fecha de diciembre de 2025.
+**Challenge:** [ISIC MILK10k 2025](https://challenge.isic-archive.com/leaderboards/milk10k/) — Posición **15 / 50** equipos a fecha de diciembre de 2025 (en el leaderboard como `ManuelPla`).
 
 
 ## Documentación y recursos
